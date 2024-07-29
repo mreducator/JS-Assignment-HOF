@@ -1,0 +1,16 @@
+#parent{
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#child{
+    display: flex;
+    justify-content: space-around;
+    width:200px
+}
+.digit{
+    font-size: 30px;
+    color:black;
+}
